@@ -66,6 +66,13 @@ Aufgabe: Artikelstudium
 
 ## 18.09.2025 | Woche 38
 
+### Microservices erweitern
+
+[11.1 Feign Client](11_FeignClient/11.1_Feign_Client.pdf)
+
+- Einleitung und Aufbau studieren
+- Aufgaben 1-3 durchführen mit diesem [Code](11_FeignClient/Feign.zip)
+
 ## 25.09.2025 | Woche 39
 
 ### LK 1
