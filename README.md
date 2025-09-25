@@ -75,14 +75,34 @@ Aufgabe: Artikelstudium
 
 ## 25.09.2025 | Woche 39
 
+### Repetition für LK 1
+
+[Handout](04_Theorie/Handout_01.pdf)
+
+- Handout studieren und Spick ergänzen
+
+### Microservices erweitern | Discovery Service
+
+[12 Eureka](12_Eureka/12_Eureka_Server.pdf)
+
+- Einleitung und Aufbau studieren
+- Aufgaben 1-2 durchführen mit diesem [Ergebnis](12_Eureka/Eureka.zip)
+
+## 02.10.2025 | Woche 40
+
+### Microservices erweitern | API Gateway
+
+[13.1 Spring Cloud Gateway](13_API_Gateway/13.1_Spring_Cloud_Gateway.pdf)
+
+- Einleitung und Aufbau studieren
+- Aufgaben 1-2 durchführen mit diesem [Einstieg](13_API_Gateway/Gateway.zip)
+
 ### LK 1
 
 [Lernziele](02_Leistungsbeurteilungen/Lernziele.pdf)
 
 - Kapitel: Grundlagen & Analyse verteilter Systeme (Seite 1)
 - Dauer: ca. 15' (MC-Aufgaben)
-  
-## 02.10.2025 | Woche 40
 
 ## 09.10.2025 | Woche 41
 
